@@ -1,1 +1,1 @@
-This project has been transfered to https://github.com/joshcooper/puppet-dsc
+This project has been transfered to https://github.com/puppetlabs/puppetlabs-dsc
